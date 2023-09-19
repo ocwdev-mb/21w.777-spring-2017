@@ -1,0 +1,61 @@
+leftnav:
+- identifier: 47b81639-963f-9862-9b03-b386a52ad635
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: a4e2b74b-4d64-1dfa-81f6-f83c6a2c3144
+  name: Grading Policy
+  pageRef: /pages/syllabus/grading-policy
+  parent: 47b81639-963f-9862-9b03-b386a52ad635
+  weight: 20
+- identifier: edc2da37-0605-9b6e-d5d3-ad4484f24a66
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: 68dd70e6-f1a0-8832-f5d9-055f92794c80
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 40
+- identifier: 14e6fc37-efb3-18ad-7449-44a55f7cf496
+  name: Supplemental Readings
+  pageRef: /pages/readings/supplemental-readings
+  parent: 68dd70e6-f1a0-8832-f5d9-055f92794c80
+  weight: 50
+- identifier: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 60
+- identifier: e3dfcd13-ef33-479d-c091-741bdcd2af91
+  name: Format for Essays & Citations
+  pageRef: /pages/assignments/format-for-essays-and-citations
+  parent: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  weight: 70
+- identifier: 4517386d-2f5a-a7bc-e626-74b3b8d91a02
+  name: Reading Journal
+  pageRef: /pages/assignments/reading-journal
+  parent: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  weight: 80
+- identifier: e4d08632-c0f5-b4c8-81f6-063acf594d84
+  name: Book Review Essay Book List
+  pageRef: /pages/assignments/book-review-essay-book-list
+  parent: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  weight: 90
+- identifier: ad0040dc-e5cf-49d8-96a9-720a5eae04ae
+  name: Assignments 1-7
+  pageRef: /pages/assignments/assignments-1-7
+  parent: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  weight: 100
+- identifier: ccf9a600-f272-061b-b563-a8509e776eec
+  name: Assignments 8-15
+  pageRef: /pages/assignments/assignments-8-15/
+  parent: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  weight: 110
+- identifier: 9ea90763-b6f3-9f4d-ff7b-02da80959257
+  name: Assignments 16-25
+  pageRef: /pages/assignments/assignments-16-25/
+  parent: bfa25d7a-1ed7-db6c-5a46-b08dc26b4709
+  weight: 120
+- identifier: f9d9464d-cb21-6af0-0e3e-266bc02dbb6c
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 130
